@@ -1,6 +1,5 @@
 package main.com;
 
-import java.math.BigDecimal;
 import java.util.Set;
 
 public class Bern extends Cenevre{
