@@ -29,4 +29,12 @@ public class Geneva {
 
         }else this.id = id;
     }
+
+    void method1 (int number){
+
+    }
+
+    void method1 (long number){
+
+    }
 }
